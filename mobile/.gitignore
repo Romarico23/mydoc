@@ -21,4 +21,4 @@ expo-env.d.ts
 
 # Ignore environment files
 .env
-**/.env
+# **/.env
